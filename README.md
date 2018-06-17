@@ -1,5 +1,5 @@
 # LIME-Text_Data
-Implementation of LIME (Local Interpretable Model-Agnostic Explanations) on Text Data. This helps to give an intuitive explanantion of why a model is predicting what its is predicting. 
+Implementation of LIME (Local Interpretable Model-Agnostic Explanations) on Text Data. This helps to give an intuitive explanantion of why a model is predicting what it is predicting. 
 The notebook uses a simple classification task to highlight the contributors towards the prediction it made (See Below):
 
 
